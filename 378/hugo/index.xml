@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugoes on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/pull_request/378/hugo/</link>
+    <description>Recent content in Hugoes on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/pull_request/378/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showtime Website History</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/hugo/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/hugo/history/</guid>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a51e2c7 AuthorDate: 2024-07-13 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-13 Hash: a51e2c7509096ba5d9d01280282d83b1f21408e0 Subject: Merge a9c6ba92ba7c2bebac6133521b0afa658af92fc6 into c6d9075d74e5d803baf78ceb6e5602ef220da136 </description>
+    </item>
+  </channel>
+</rss>
