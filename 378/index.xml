@@ -271,7 +271,7 @@
       <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/bachelor/b4-sempy/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/bachelor/b4-sempy/features/</guid>
-      <description> Features Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <description>Features Our SEMPY Button offers a relaxed shopping experience that provides customers with the best recommendations based on the information from the three major platforms: idealo, Amazon, and YouTube. Whether the customer is interested in a Victorinox Huntsman, an MSR Hubba Hubba 2 NX tent, or Apple AirPods 3, the SEMPY-AI Tool caters to the customer&amp;rsquo;s individual needs.&#xA;Due to its crawling capabilities, the SEMPY-AI Tool analyzes customer reviews, pros and cons, Q&amp;amp;A, ratings, and YouTube transcripts from Idealo, Amazon, and YouTube.</description>
     </item>
     <item>
       <title>Process</title>
@@ -292,7 +292,7 @@
       <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/bachelor/b4-sempy/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/bachelor/b4-sempy/process/</guid>
-      <description> Process </description>
+      <description>Process At the beginning of the project, there was a brainstorming phase where we wanted to define how our project should look like at the end of the semester. Initially, we thought of having a tool where customers could have a conversation on the idealo website and ask everything about the product. We took inspiration from Perplexity AI, ChatGPT, and similar AI tools.&#xA;After a long discussion, we concluded that we would generate the output of the OpenAI API and place it on the website.</description>
     </item>
     <item>
       <title>Process</title>
@@ -303,10 +303,10 @@
     </item>
     <item>
       <title>Process</title>
-      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/process/</link>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/process/</guid>
-      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We maintained ongoing communication with product owners each week to iterate on and refine project details. Programming We primarily programmed in Unity, engaging in weekly discussions with product owners and regular team meetings to set goals for the upcoming week.</description>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/process/</guid>
+      <description>Initial Meetings The three of us, who had worked on the simulation last semester, provided the new team members with a brief introduction to the codebase and detailed information about water scarcity, our algorithms, and other essential aspects. Communication and Iteration We held weekly Scrum meetings with product owners to iterate on and refine project details, working in sprints to ensure continuous progress and alignment with our goals. Programming We primarily programmed in Unity.</description>
     </item>
     <item>
       <title>Process</title>
@@ -345,9 +345,9 @@
     </item>
     <item>
       <title>Features</title>
-      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/features/</link>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/features/</guid>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/features/</guid>
       <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
     </item>
     <item>
@@ -363,6 +363,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m5-capsearch/features/</guid>
       <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+    </item>
+    <item>
+      <title>Gameplay</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/gameplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/gameplay/</guid>
+      <description>Gameplay You can manipulate the light-conditions, the temperature, the ph-value of the water and the salinity of the water the algae should grow in. Keep an eye on the status of your plant with your score and the indicator on the floating monitor within all stages. If you want to learn more about the parts needed to do this kind of research, you can click on the small icons with an “i”.</description>
+    </item>
+    <item>
+      <title>Process</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/process/</guid>
+      <description>Process The first thing we thought about within the brainstorming for this project was: •&#x9;What do we want to communicate?&#xA;•&#x9;Who is the target audience?&#xA;•&#x9;How can we target this audience? We answered those questions by communication with the product owners of the food4future-project. Food4Future (f4f) is a joint project funded by the German Federal Ministry of Education and Research (BMBF) as a part of the “Agricultural Systems of the Future” programme.</description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m2-food4future/story/</guid>
+      <description>Story In our AR-Game environment the “No land”-Scenario takes place. The area available for food production is decreasing. You are part of a team responsible for the indoor cultivation of algae. Therefore, you can experience all three important stages of the research necessary to grow the best algae for your country.</description>
     </item>
     <item>
       <title>Tech Stack</title>
@@ -387,9 +408,9 @@
     </item>
     <item>
       <title>Tech Stack</title>
-      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/techstack/</link>
+      <link>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/techstack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1_gaming_for_future/techstack/</guid>
+      <guid>https://htw-imi-showtime.github.io/pull_request/378/ss24/master/m1-gaming-for-future/techstack/</guid>
       <description>Tech Stack Overview Our project utilizes a diverse tech stack to support various aspects of development, design, 3D modeling, music production, and communication.&#xA;Development: We leverage Unity Engine for robust game development, integrated seamlessly with JetBrains Rider and Visual Studio for efficient coding and version control through GitLab.&#xA;Design: Graphic and UI design is powered by industry-standard tools including Adobe Photoshop and Adobe Illustrator, along with collaborative platforms like Figma and Mural for design iterations and team collaboration.</description>
     </item>
     <item>
@@ -502,14 +523,14 @@
       <link>https://htw-imi-showtime.github.io/pull_request/378/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/pull_request/378/schedule/</guid>
-      <description>There will be brief project presentations with a quick Q&amp;amp;A in the morning (very brief presentations, the odd times are real, we might even be a bit quicker than this) and a project fair in the afternoon.&#xA;The Schedule below is subject to change during the detailed Showtime planning!</description>
+      <description>There will be brief project presentations with a quick Q&amp;amp;A in the morning (very brief presentations, the odd times are real, we might even be a bit quicker than this) and a project fair in the afternoon.&#xA;Ort: H 001 / Campus Wilhelminenhof</description>
     </item>
     <item>
       <title>Showtime Website History</title>
       <link>https://htw-imi-showtime.github.io/pull_request/378/hugo/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://htw-imi-showtime.github.io/pull_request/378/hugo/history/</guid>
-      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a51e2c7 AuthorDate: 2024-07-13 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-13 Hash: a51e2c7509096ba5d9d01280282d83b1f21408e0 Subject: Merge a9c6ba92ba7c2bebac6133521b0afa658af92fc6 into c6d9075d74e5d803baf78ceb6e5602ef220da136 </description>
+      <description>For now, this is a gitinfo tryout:&#xA;(see https://gohugo.io/methods/page/gitinfo/)&#xA;GitInfo: Gitinfo: AbbreviatedHash: a845744 AuthorDate: 2024-07-16 AuthorEmail: barne.kleinen@htw-berlin.de AuthorName: Barne Kleinen CommitDate: 2024-07-16 Hash: a845744a52555a7a6a86d51bf08b74c8f43e7197 Subject: Merge 84104408837014794020422ab2c3d00c86bfa30f into cb8cd1286dd3e74c58f059a56cfa32760c43ff9f </description>
     </item>
     <item>
       <title>Tech Stack</title>
