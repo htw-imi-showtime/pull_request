@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Technology on IMI Showtime</title>
+    <link>https://htw-imi-showtime.github.io/pull_request/379/study_focus/web-technology/</link>
+    <description>Recent content in Web Technology on IMI Showtime</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://htw-imi-showtime.github.io/pull_request/379/study_focus/web-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capsearch: Bridging Talent and Career</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/379/ss24/master/m5-capsearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/379/ss24/master/m5-capsearch/</guid>
+      <description>In large-scale companies with numerous employees, identifying the ideal project that fosters professional growth and aligns perfectly with individual expectations has consistently posed a challenge. Even after discovering a suitable project, the conventional back-and-forth email exchanges for sharing general information can prove time consuming and labor intensive for both employees and managers. Our Goal CapSearch offers an innovative solution to this challenge. By digitizing the process, Capsearch streamlines how employees are paired with projects.</description>
+    </item>
+    <item>
+      <title>LunarFit</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/379/ss24/bachelor/b3-lunarfit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/379/ss24/bachelor/b3-lunarfit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PAM</title>
+      <link>https://htw-imi-showtime.github.io/pull_request/379/ss24/bachelor/b5-pam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://htw-imi-showtime.github.io/pull_request/379/ss24/bachelor/b5-pam/</guid>
+      <description>Background The Tool&amp;rsquo;s purpose is to allow for the simple creation of Process Diagrams using a simple interface, as well the saving and exporting of those diagrams in various formats as required, organizing them depending on the preferences of the creators by allowing for a custom repository structure of folders and sub-folders. It also has an internal organization scheme following a simple folder/file format. However, it was rather simple, focusing on the basic features initially.</description>
+    </item>
+  </channel>
+</rss>
